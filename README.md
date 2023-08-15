@@ -1,1 +1,1 @@
-print("Hi, I'm beginner python and c# developer")
+print("Hi, I'm game developer and embedded programmer")
